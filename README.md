@@ -18,7 +18,7 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 - 🖥️ VirtualBox  
 - 🪟 Windows (conhecimento básico)  
 - 🧩 Visual Studio Code  
-- 📊 Portugol / Fluxograma (**Fluxoritmo**)  
+- 📊 Fluxograma (**Fluxoritmo**)  
 
 ---
 
