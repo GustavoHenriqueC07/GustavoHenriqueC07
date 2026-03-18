@@ -54,4 +54,4 @@ Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecn
 
 ---
 
-✨ _Sempre aprendendo, evoluindo e buscando entender o mundo através da tecnologia e da filosofia._
+_ "É preciso ter um caos interior para dar à luz uma estrela dançarina."- Friedrich Nietzsche._
