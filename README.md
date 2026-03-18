@@ -48,7 +48,7 @@ Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecn
 ---
 
 ## 📫 Contato
-- 📧 Email: ghenriquexzs@gmail  
+- 📧 Email: ghenriquexzs@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/gustavo-henrique-de-carvalho-289097395  
 - GitHub: https://github.com/seu-usuario  
 
