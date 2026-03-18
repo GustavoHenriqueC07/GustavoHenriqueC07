@@ -58,3 +58,5 @@ Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecn
 ---
 
  "É preciso ter um caos interior para dar à luz uma estrela dançarina."- Friedrich Nietzsche.
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
