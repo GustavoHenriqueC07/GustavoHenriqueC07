@@ -16,6 +16,10 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 - 🔧 Git  
 - 🐧 Linux (conhecimentos básicos/intermediários)  
 - 🖥️ VirtualBox  
+- 🪟 Windows (conhecimento básico)  
+- 🖥️ VirtualBox  
+- 🧩 Visual Studio Code  
+- 📊 Portugol / Fluxograma (**Fluxoritmo**)  
 
 ---
 
