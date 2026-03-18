@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👨‍💻 Gustavo Henrique
 
-<!--
-**GustavoHenriqueC07/GustavoHenriqueC07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+💡 Interessado em tecnologia, comportamento humano e economia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um estudante focado em desenvolvimento de sistemas, com interesse não apenas em tecnologia, mas também em entender como as pessoas pensam, se comunicam e se relacionam. Busco sempre evoluir tanto no lado técnico quanto no lado humano.
+
+---
+
+## 💻 Tecnologias & Conhecimentos
+- ☕ Java  
+- 🌐 HTML  
+- 🔧 Git  
+- 🐧 Linux (conhecimentos básicos/intermediários)  
+- 🖥️ VirtualBox  
+
+---
+
+## 📚 Certificações
+- 📐 Matemática  
+- 🌐 CISCO (Redes e Tecnologia)  
+
+---
+
+## 🧠 Interesses
+- 📊 Economia  
+- 💬 Comunicação e Relações Humanas  
+- 📖 Filosofia  
+- 🧠 Pensamento Crítico  
+- 🚀 Desenvolvimento Pessoal  
+
+---
+
+## 📌 Resumo
+Desenvolvimento de Sistemas | Java | HTML | Git  
+Linux | VirtualBox | Matemática | CISCO  
+Comunicação | Relações Humanas | Economia | Pensamento Crítico  
+Filosofia | Aprendizado Contínuo | Desenvolvimento Pessoal | Tecnologia  
+
+---
+
+## 🎯 Objetivo
+Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecnologia para resolver problemas reais, sempre aliado ao entendimento humano.
+
+---
+
+## 📫 Contato
+- 📧 Email: ghenriquexzs@gmail  
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-henrique-de-carvalho-289097395  
+- GitHub: https://github.com/seu-usuario  
+
+---
+
+✨ _Sempre aprendendo, evoluindo e buscando entender o mundo através da tecnologia e da filosofia._
