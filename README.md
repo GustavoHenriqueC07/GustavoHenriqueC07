@@ -31,21 +31,17 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#4169E1"/>
-  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CANGURU</text>
-  <text x="125" y="80" text-anchor="middle" fill="white" font-size="14">Certificação Acadêmica</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=4169E1&height=120&section=header&text=CANGURU&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
+
+Certificação Acadêmica
 
 </td>
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#4169E1"/>
-  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CISCO</text>
-  <text x="125" y="80" text-anchor="middle" fill="white" font-size="14">Redes e Tecnologia</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=4169E1&height=120&section=header&text=CISCO&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
+
+Redes e Tecnologia
 
 </td>
 
@@ -59,21 +55,17 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#8A2BE2"/>
-  <text x="125" y="45" text-anchor="middle" fill="white" font-size="18" font-weight="bold">INTELIGÊNCIA ARTIFICIAL</text>
-  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">DIO</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=120&section=header&text=INTELIGÊNCIA%20ARTIFICIAL&fontSize=18&fontColor=FFFFFF&fontAlignY=40"/>
+
+DIO
 
 </td>
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#8A2BE2"/>
-  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CIBERSEGURANÇA</text>
-  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">DIO</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=120&section=header&text=CIBERSEGURANÇA&fontSize=20&fontColor=FFFFFF&fontAlignY=40"/>
+
+DIO
 
 </td>
 
@@ -87,22 +79,17 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#DC2626"/>
-  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">EXCEL</text>
-  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">SENAI</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=EXCEL&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
 
 </td>
 
 <td align="center">
 
-<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="240" height="110" rx="12" fill="#DC2626"/>
-  <text x="125" y="45" text-anchor="middle" fill="white" font-size="17" font-weight="bold">SEGURANÇA NO</text>
-  <text x="125" y="68" text-anchor="middle" fill="white" font-size="17" font-weight="bold">TRABALHO</text>
-  <text x="125" y="92" text-anchor="middle" fill="white" font-size="15">SENAI</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=SEGURANÇA%20NO%20TRABALHO&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
 
 </td>
 
