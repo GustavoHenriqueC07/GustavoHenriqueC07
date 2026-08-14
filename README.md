@@ -28,23 +28,18 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/CANGURU-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF" />
+### <font color="#4169E1">Canguru</font>
 
-<br>
-
-<b style="color:#1E90FF;">Certificação Acadêmica</b>
+Certificação Acadêmica
 
     </td>
+    <td align="center" width="50%">
 
-    <td align="center">
+### <font color="#4169E1">CISCO</font>
 
-<img src="https://img.shields.io/badge/CISCO-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF" />
-
-<br>
-
-<b style="color:#1E90FF;">Redes e Tecnologia</b>
+Redes e Tecnologia
 
     </td>
   </tr>
@@ -54,23 +49,18 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
+### <font color="#8A2BE2">Inteligência Artificial</font>
 
-<br>
-
-<b style="color:#8A2BE2;">DIO</b>
+DIO
 
     </td>
+    <td align="center" width="50%">
 
-    <td align="center">
+### <font color="#8A2BE2">Cibersegurança</font>
 
-<img src="https://img.shields.io/badge/CIBERSEGURANÇA-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
-
-<br>
-
-<b style="color:#8A2BE2;">DIO</b>
+DIO
 
     </td>
   </tr>
@@ -80,27 +70,24 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/EXCEL-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000" />
+### <font color="#FF0000">Excel</font>
 
-<br>
-
-<b style="color:#FF0000;">SENAI</b>
+SENAI
 
     </td>
+    <td align="center" width="50%">
 
-    <td align="center">
+### <font color="#FF0000">Segurança no Trabalho</font>
 
-<img src="https://img.shields.io/badge/SEGURANÇA_NO_TRABALHO-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000" />
-
-<br>
-
-<b style="color:#FF0000;">SENAI</b>
+SENAI
 
     </td>
   </tr>
 </table>
+
+---
 
 ## Interesses
 
@@ -137,6 +124,9 @@ Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecn
 ---
 
 > "É preciso ter um caos interior para dar à luz uma estrela dançarina."
+> — Friedrich Nietzsche
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>> "É preciso ter um caos interior para dar à luz uma estrela dançarina."
 > — Friedrich Nietzsche
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>
