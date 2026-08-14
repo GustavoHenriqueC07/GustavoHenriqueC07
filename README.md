@@ -27,67 +27,87 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 ## Certificações
 
 <table>
-  <tr>
-    <td align="center" width="50%">
+<tr>
 
-### <font color="#4169E1">Canguru</font>
+<td align="center">
 
-Certificação Acadêmica
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#4169E1"/>
+  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CANGURU</text>
+  <text x="125" y="80" text-anchor="middle" fill="white" font-size="14">Certificação Acadêmica</text>
+</svg>
 
-    </td>
-    <td align="center" width="50%">
+</td>
 
-### <font color="#4169E1">CISCO</font>
+<td align="center">
 
-Redes e Tecnologia
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#4169E1"/>
+  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CISCO</text>
+  <text x="125" y="80" text-anchor="middle" fill="white" font-size="14">Redes e Tecnologia</text>
+</svg>
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
 
 ### Certificações DIO
 
 <table>
-  <tr>
-    <td align="center" width="50%">
+<tr>
 
-### <font color="#8A2BE2">Inteligência Artificial</font>
+<td align="center">
 
-DIO
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#8A2BE2"/>
+  <text x="125" y="45" text-anchor="middle" fill="white" font-size="18" font-weight="bold">INTELIGÊNCIA ARTIFICIAL</text>
+  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">DIO</text>
+</svg>
 
-    </td>
-    <td align="center" width="50%">
+</td>
 
-### <font color="#8A2BE2">Cibersegurança</font>
+<td align="center">
 
-DIO
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#8A2BE2"/>
+  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">CIBERSEGURANÇA</text>
+  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">DIO</text>
+</svg>
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
 
 ### Certificações SENAI
 
 <table>
-  <tr>
-    <td align="center" width="50%">
+<tr>
 
-### <font color="#FF0000">Excel</font>
+<td align="center">
 
-SENAI
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#DC2626"/>
+  <text x="125" y="50" text-anchor="middle" fill="white" font-size="20" font-weight="bold">EXCEL</text>
+  <text x="125" y="80" text-anchor="middle" fill="white" font-size="15">SENAI</text>
+</svg>
 
-    </td>
-    <td align="center" width="50%">
+</td>
 
-### <font color="#FF0000">Segurança no Trabalho</font>
+<td align="center">
 
-SENAI
+<svg width="250" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="240" height="110" rx="12" fill="#DC2626"/>
+  <text x="125" y="45" text-anchor="middle" fill="white" font-size="17" font-weight="bold">SEGURANÇA NO</text>
+  <text x="125" y="68" text-anchor="middle" fill="white" font-size="17" font-weight="bold">TRABALHO</text>
+  <text x="125" y="92" text-anchor="middle" fill="white" font-size="15">SENAI</text>
+</svg>
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
-
----
 
 ## Interesses
 
