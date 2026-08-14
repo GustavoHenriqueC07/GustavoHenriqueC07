@@ -25,16 +25,6 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 ---
 
 ## Certificações
-
-### Certificações
-
-<table>
-  <tr>
-    <td align="center" width="50%" style="border: 2px solid #1E90FF; border-radius: 10px;">
-      <h3 style="color: #1E90FF;">Canguru</h3>
-      <p>Certificação Acadêmica</p>
-    </td>
-    <td align="center" width="50%" style="border: 2px solid #1E90FF; border-radius: 10px;">
      ## Certificações
 
 <table>
