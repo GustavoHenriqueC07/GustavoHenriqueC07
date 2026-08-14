@@ -30,12 +30,12 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Canguru</h3>
+    <td align="center" width="50%" style="border: 2px solid #1E90FF; border-radius: 10px;">
+      <h3 style="color: #1E90FF;">Canguru</h3>
       <p>Certificação Acadêmica</p>
     </td>
-    <td align="center" width="50%">
-      <h3>CISCO</h3>
+    <td align="center" width="50%" style="border: 2px solid #1E90FF; border-radius: 10px;">
+      <h3 style="color: #1E90FF;">CISCO</h3>
       <p>Redes e Tecnologia</p>
     </td>
   </tr>
@@ -45,12 +45,12 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Inteligência Artificial</h3>
+    <td align="center" width="50%" style="border: 2px solid #8A2BE2; border-radius: 10px;">
+      <h3 style="color: #8A2BE2;">Inteligência Artificial</h3>
       <p>DIO</p>
     </td>
-    <td align="center" width="50%">
-      <h3>Cibersegurança</h3>
+    <td align="center" width="50%" style="border: 2px solid #8A2BE2; border-radius: 10px;">
+      <h3 style="color: #8A2BE2;">Cibersegurança</h3>
       <p>DIO</p>
     </td>
   </tr>
@@ -60,18 +60,17 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Excel</h3>
+    <td align="center" width="50%" style="border: 2px solid #FF0000; border-radius: 10px;">
+      <h3 style="color: #FF0000;">Excel</h3>
       <p>SENAI</p>
     </td>
-    <td align="center" width="50%">
-      <h3>Segurança no Trabalho</h3>
+    <td align="center" width="50%" style="border: 2px solid #FF0000; border-radius: 10px;">
+      <h3 style="color: #FF0000;">Segurança no Trabalho</h3>
       <p>SENAI</p>
     </td>
   </tr>
 </table>
 
----
 
 ## Interesses
 
