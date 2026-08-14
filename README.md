@@ -29,14 +29,23 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Canguru-Certificação%20Acadêmica-1E90FF?style=for-the-badge" />
-      </a>
+
+<img src="https://img.shields.io/badge/CANGURU-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF" />
+
+<br>
+
+<b style="color:#1E90FF;">Certificação Acadêmica</b>
+
     </td>
+
     <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/CISCO-Redes%20e%20Tecnologia-1E90FF?style=for-the-badge" />
-      </a>
+
+<img src="https://img.shields.io/badge/CISCO-1E90FF?style=for-the-badge&labelColor=1E90FF&color=1E90FF" />
+
+<br>
+
+<b style="color:#1E90FF;">Redes e Tecnologia</b>
+
     </td>
   </tr>
 </table>
@@ -46,10 +55,23 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Inteligência%20Artificial-DIO-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/INTELIGÊNCIA_ARTIFICIAL-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
+
+<br>
+
+<b style="color:#8A2BE2;">DIO</b>
+
     </td>
+
     <td align="center">
-      <img src="https://img.shields.io/badge/Cibersegurança-DIO-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CIBERSEGURANÇA-8A2BE2?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2" />
+
+<br>
+
+<b style="color:#8A2BE2;">DIO</b>
+
     </td>
   </tr>
 </table>
@@ -59,14 +81,26 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Excel-SENAI-FF0000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/EXCEL-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000" />
+
+<br>
+
+<b style="color:#FF0000;">SENAI</b>
+
     </td>
+
     <td align="center">
-      <img src="https://img.shields.io/badge/Segurança%20no%20Trabalho-SENAI-FF0000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SEGURANÇA_NO_TRABALHO-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000" />
+
+<br>
+
+<b style="color:#FF0000;">SENAI</b>
+
     </td>
   </tr>
 </table>
-
 
 ## Interesses
 
