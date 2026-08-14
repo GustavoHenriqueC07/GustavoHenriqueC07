@@ -25,7 +25,6 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 ---
 
 ## Certificações
-     ## Certificações
 
 <table>
   <tr>
