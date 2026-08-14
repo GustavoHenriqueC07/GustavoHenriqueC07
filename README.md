@@ -35,8 +35,19 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
       <p>Certificação Acadêmica</p>
     </td>
     <td align="center" width="50%" style="border: 2px solid #1E90FF; border-radius: 10px;">
-      <h3 style="color: #1E90FF;">CISCO</h3>
-      <p>Redes e Tecnologia</p>
+     ## Certificações
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Canguru-Certificação%20Acadêmica-1E90FF?style=for-the-badge" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/CISCO-Redes%20e%20Tecnologia-1E90FF?style=for-the-badge" />
+      </a>
     </td>
   </tr>
 </table>
@@ -45,13 +56,11 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #8A2BE2; border-radius: 10px;">
-      <h3 style="color: #8A2BE2;">Inteligência Artificial</h3>
-      <p>DIO</p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Inteligência%20Artificial-DIO-8A2BE2?style=for-the-badge" />
     </td>
-    <td align="center" width="50%" style="border: 2px solid #8A2BE2; border-radius: 10px;">
-      <h3 style="color: #8A2BE2;">Cibersegurança</h3>
-      <p>DIO</p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cibersegurança-DIO-8A2BE2?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -60,13 +69,11 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <table>
   <tr>
-    <td align="center" width="50%" style="border: 2px solid #FF0000; border-radius: 10px;">
-      <h3 style="color: #FF0000;">Excel</h3>
-      <p>SENAI</p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Excel-SENAI-FF0000?style=for-the-badge" />
     </td>
-    <td align="center" width="50%" style="border: 2px solid #FF0000; border-radius: 10px;">
-      <h3 style="color: #FF0000;">Segurança no Trabalho</h3>
-      <p>SENAI</p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Segurança%20no%20Trabalho-SENAI-FF0000?style=for-the-badge" />
     </td>
   </tr>
 </table>
