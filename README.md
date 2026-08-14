@@ -24,54 +24,6 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 ---
 
-## Certificações
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=4169E1&height=120&section=header&text=CANGURU&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
-
-Certificação Acadêmica
-
-</td>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=4169E1&height=120&section=header&text=CISCO&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
-
-Redes e Tecnologia
-
-</td>
-
-</tr>
-</table>
-
-### Certificações DIO
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=120&section=header&text=INTELIGÊNCIA%20ARTIFICIAL&fontSize=18&fontColor=FFFFFF&fontAlignY=40"/>
-
-DIO
-
-</td>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=8A2BE2&height=120&section=header&text=CIBERSEGURANÇA&fontSize=20&fontColor=FFFFFF&fontAlignY=40"/>
-
-DIO
-
-</td>
-
-</tr>
-</table>
-
 ### Certificações SENAI
 
 <table>
@@ -88,6 +40,46 @@ SENAI
 <td align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=SEGURANÇA%20NO%20TRABALHO&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=ÉTICA%20NA%20INTELIGÊNCIA%20ARTIFICIAL&fontSize=15&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
+
+</td>
+
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=SEGURANÇA%20CIBERNÉTICA&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=ECONOMIA%20CIRCULAR&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
+
+SENAI
+
+</td>
+
+<td align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=FLUÊNCIA%20IA&fontSize=20&fontColor=FFFFFF&fontAlignY=40"/>
 
 SENAI
 
