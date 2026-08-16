@@ -70,6 +70,8 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 ### Certificações SENAI
 
+SENAI
+
 </td>
 
 <td align="center">
