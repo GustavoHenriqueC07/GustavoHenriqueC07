@@ -24,7 +24,42 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 ---
 
-### Certificações SENAI
+### Certificações 
+### Certificações DIO.me
+
+| | |
+|:---:|:---:|
+| ![Inteligência Artificial](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=INTELIGÊNCIA%20ARTIFICIAL&fontSize=18&fontColor=FFFFFF&fontAlignY=40) | ![Cibersegurança](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=CIBERSEGURANÇA&fontSize=20&fontColor=FFFFFF&fontAlignY=40) |
+| **DIO.me** | **DIO.me** |
+| ![Segurança da Informação](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=SEGURANÇA%20DA%20INFORMAÇÃO&fontSize=15&fontColor=FFFFFF&fontAlignY=40) | ![Defesa Cibernética](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=DEFESA%20CIBERNÉTICA&fontSize=18&fontColor=FFFFFF&fontAlignY=40) |
+| **DIO.me** | **DIO.me** |
+
+---
+
+### Certificação Cisco
+
+| |
+|:---:|
+| ![Arquitetura de Redes](https://capsule-render.vercel.app/api?type=rounded&color=38BDF8&height=120&section=header&text=ARQUITETURA%20DE%20REDES&fontSize=19&fontColor=FFFFFF&fontAlignY=40) |
+| **Cisco** |
+
+---
+
+### Certificação Acadêmica
+
+| |
+|:---:|
+| ![Canguru de Matemática](https://capsule-render.vercel.app/api?type=rounded&color=1E3A8A&height=120&section=header&text=CANGURU%20DE%20MATEMÁTICA&fontSize=17&fontColor=FFFFFF&fontAlignY=40) |
+| **Canguru de Matemática — Medalha de Bronze** |
+
+---
+
+### Participação
+
+| |
+|:---:|
+| ![Grand Prix SENAI](https://capsule-render.vercel.app/api?type=rounded&color=F97316&height=120&section=header&text=GRAND%20PRIX%20SENAI&fontSize=19&fontColor=FFFFFF&fontAlignY=40) |
+| **Certificado de Participação** |
 
 <table>
 <tr>
@@ -33,7 +68,7 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=EXCEL&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
 
-SENAI
+### Certificações SENAI
 
 </td>
 
