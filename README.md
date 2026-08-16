@@ -13,7 +13,9 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 ## Tecnologias & Conhecimentos
 
-- Java
+- JavaScript
+- Python
+- TypeScript
 - HTML
 - Git
 - Linux (conhecimentos básicos/intermediários)
