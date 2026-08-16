@@ -68,8 +68,6 @@ Sou um estudante focado em desenvolvimento de sistemas, com interesse não apena
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=EXCEL&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
 
-### Certificações SENAI
-
 SENAI
 
 </td>
