@@ -56,32 +56,6 @@ Just starting out in these two fields, backed by the certifications listed below
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueC07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueC07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenriqueC07&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/GustavoHenriqueC07/REPO-NAME-1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHenriqueC07&repo=REPO-NAME-1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/GustavoHenriqueC07/REPO-NAME-2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHenriqueC07&repo=REPO-NAME-2&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ## Certifications
 
 ### DIO.me
