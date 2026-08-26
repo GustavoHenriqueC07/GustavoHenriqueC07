@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo%20Henrique&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo%20Henrique&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Systems%20Development%20Student&descAlignY=55&descSize=16"/>
 
 <p align="center">
-  <em>Tecnologia, comportamento humano e economia — três lentes para entender e construir coisas melhores.</em>
+  <em>Technology, human behavior, and economics — three lenses for understanding and building better things.</em>
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Sou estudante de Desenvolvimento de Sistemas, com interesse que vai além do código: gosto de entender como as pessoas pensam, se comunicam e se relacionam. Busco evoluir tanto no lado técnico quanto no lado humano, unindo tecnologia e pensamento crítico para resolver problemas reais.
+I'm a Systems Development student with an interest that goes beyond code: I like understanding how people think, communicate, and relate to one another. I aim to grow both technically and on the human side, combining technology and critical thinking to solve real problems.
 
-- Foco atual: Desenvolvimento de Sistemas
-- Interesses paralelos: economia, filosofia, comunicação e relações humanas
-- Objetivo: crescer como desenvolvedor através de experiência prática, sempre com um olhar humano sobre a tecnologia
+- Current focus: Systems Development
+- Parallel interests: economics, philosophy, communication, and human relations
+- Goal: grow as a developer through hands-on experience, always with a human-centered view of technology
 
 ---
 
-## Tecnologias & Ferramentas
+## Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -43,60 +43,86 @@ Sou estudante de Desenvolvimento de Sistemas, com interesse que vai além do có
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-> Também tenho prática com fluxogramas (Fluxoritmo) para lógica de programação.
+> I also have practice with flowcharts (Fluxoritmo) for programming logic.
 
-### Em aprendizado
+### Currently learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cibersegurança-000000?style=flat-square&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
-Iniciando meus estudos nessas duas áreas, com apoio das certificações listadas abaixo.
+Just starting out in these two fields, backed by the certifications listed below.
 
 ---
 
-## Certificações
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueC07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueC07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoHenriqueC07&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/GustavoHenriqueC07/REPO-NAME-1">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHenriqueC07&repo=REPO-NAME-1&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/GustavoHenriqueC07/REPO-NAME-2">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHenriqueC07&repo=REPO-NAME-2&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## Certifications
 
 ### DIO.me
-- Inteligência Artificial
-- Cibersegurança
-- Segurança da Informação
-- Defesa Cibernética
+- Artificial Intelligence
+- Cybersecurity
+- Information Security
+- Cyber Defense
 
 ### Cisco
-- Arquitetura de Redes
+- Network Architecture
 
 ### SENAI
 - Excel
-- Segurança no Trabalho
-- Ética na Inteligência Artificial
-- Segurança Cibernética
-- Economia Circular
-- Fluência IA
+- Workplace Safety
+- AI Ethics
+- Cybersecurity
+- Circular Economy
+- AI Fluency
 
-### Acadêmica
-- Canguru de Matemática — Medalha de Bronze
+### Academic
+- Kangaroo of Mathematics — Bronze Medal
 
-### Participação
-- Grand Prix SENAI — Certificado de Participação
-
----
-
-## Interesses
-
-`Economia` `Comunicação e Relações Humanas` `Filosofia` `Pensamento Crítico` `Desenvolvimento Pessoal`
+### Participation
+- SENAI Grand Prix — Certificate of Participation
 
 ---
 
-## Objetivo
+## Interests
 
-Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecnologia para resolver problemas reais — sempre aliado ao entendimento humano.
+`Economics` `Communication & Human Relations` `Philosophy` `Critical Thinking` `Personal Development`
+
+---
+
+## Goal
+
+Grow as a developer, gaining hands-on experience and using technology to solve real problems — always paired with a human-centered understanding.
 
 ---
 
 <p align="center">
-  <em>"É preciso ter um caos interior para dar à luz uma estrela dançarina."</em><br/>
+  <em>"One must still have chaos in oneself to give birth to a dancing star."</em><br/>
   — Friedrich Nietzsche
 </p>
 
