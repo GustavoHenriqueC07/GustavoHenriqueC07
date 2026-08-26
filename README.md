@@ -1,165 +1,103 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo+Henrique&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo%20Henrique&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=16"/>
 
-Estudante de Desenvolvimento de Sistemas  
-Interessado em tecnologia, comportamento humano e economia  
+<p align="center">
+  <em>Tecnologia, comportamento humano e economia — três lentes para entender e construir coisas melhores.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-henrique-de-carvalho-289097395">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ghenriquexzs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GustavoHenriqueC07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## Sobre mim
 
-Sou um estudante focado em desenvolvimento de sistemas, com interesse não apenas em tecnologia, mas também em entender como as pessoas pensam, se comunicam e se relacionam. Busco sempre evoluir tanto no lado técnico quanto no lado humano.
+Sou estudante de Desenvolvimento de Sistemas, com interesse que vai além do código: gosto de entender como as pessoas pensam, se comunicam e se relacionam. Busco evoluir tanto no lado técnico quanto no lado humano, unindo tecnologia e pensamento crítico para resolver problemas reais.
+
+- Foco atual: Desenvolvimento de Sistemas
+- Interesses paralelos: economia, filosofia, comunicação e relações humanas
+- Objetivo: crescer como desenvolvedor através de experiência prática, sempre com um olhar humano sobre a tecnologia
 
 ---
 
-## Tecnologias & Conhecimentos
+## Tecnologias & Ferramentas
 
-- JavaScript
-- Python
-- TypeScript
-- HTML
-- Git
-- Linux (conhecimentos básicos/intermediários)
-- VirtualBox
-- Windows (conhecimento básico)
-- Visual Studio Code
-- Fluxograma (Fluxoritmo)
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
----
+> Também tenho prática com fluxogramas (Fluxoritmo) para lógica de programação.
 
-### Certificações 
-### Certificações DIO.me
+### Em aprendizado
 
-| | |
-|:---:|:---:|
-| ![Inteligência Artificial](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=INTELIGÊNCIA%20ARTIFICIAL&fontSize=18&fontColor=FFFFFF&fontAlignY=40) | ![Cibersegurança](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=CIBERSEGURANÇA&fontSize=20&fontColor=FFFFFF&fontAlignY=40) |
-| **DIO.me** | **DIO.me** |
-| ![Segurança da Informação](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=SEGURANÇA%20DA%20INFORMAÇÃO&fontSize=15&fontColor=FFFFFF&fontAlignY=40) | ![Defesa Cibernética](https://capsule-render.vercel.app/api?type=rounded&color=7C3AED&height=120&section=header&text=DEFESA%20CIBERNÉTICA&fontSize=18&fontColor=FFFFFF&fontAlignY=40) |
-| **DIO.me** | **DIO.me** |
+<p align="left">
+  <img src="https://img.shields.io/badge/Cibersegurança-000000?style=flat-square&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
----
-
-### Certificação Cisco
-
-| |
-|:---:|
-| ![Arquitetura de Redes](https://capsule-render.vercel.app/api?type=rounded&color=38BDF8&height=120&section=header&text=ARQUITETURA%20DE%20REDES&fontSize=19&fontColor=FFFFFF&fontAlignY=40) |
-| **Cisco** |
+Iniciando meus estudos nessas duas áreas, com apoio das certificações listadas abaixo.
 
 ---
 
-### Certificação Acadêmica
+## Certificações
 
-| |
-|:---:|
-| ![Canguru de Matemática](https://capsule-render.vercel.app/api?type=rounded&color=1E3A8A&height=120&section=header&text=CANGURU%20DE%20MATEMÁTICA&fontSize=17&fontColor=FFFFFF&fontAlignY=40) |
-| **Canguru de Matemática — Medalha de Bronze** |
+### DIO.me
+- Inteligência Artificial
+- Cibersegurança
+- Segurança da Informação
+- Defesa Cibernética
 
----
+### Cisco
+- Arquitetura de Redes
+
+### SENAI
+- Excel
+- Segurança no Trabalho
+- Ética na Inteligência Artificial
+- Segurança Cibernética
+- Economia Circular
+- Fluência IA
+
+### Acadêmica
+- Canguru de Matemática — Medalha de Bronze
 
 ### Participação
+- Grand Prix SENAI — Certificado de Participação
 
-| |
-|:---:|
-| ![Grand Prix SENAI](https://capsule-render.vercel.app/api?type=rounded&color=F97316&height=120&section=header&text=GRAND%20PRIX%20SENAI&fontSize=19&fontColor=FFFFFF&fontAlignY=40) |
-| **Certificado de Participação** |
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=EXCEL&fontSize=22&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=SEGURANÇA%20NO%20TRABALHO&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=ÉTICA%20NA%20INTELIGÊNCIA%20ARTIFICIAL&fontSize=15&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=SEGURANÇA%20CIBERNÉTICA&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=ECONOMIA%20CIRCULAR&fontSize=17&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-<td align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=DC2626&height=120&section=header&text=FLUÊNCIA%20IA&fontSize=20&fontColor=FFFFFF&fontAlignY=40"/>
-
-SENAI
-
-</td>
-
-</tr>
-</table>
+---
 
 ## Interesses
 
-- Economia
-- Comunicação e Relações Humanas
-- Filosofia
-- Pensamento Crítico
-- Desenvolvimento Pessoal
-
----
-
-## Resumo
-
-Desenvolvimento de Sistemas | Java | HTML | Git  
-Linux | VirtualBox | Matemática | CISCO  
-Inteligência Artificial | Cibersegurança | Excel | Segurança no Trabalho  
-Comunicação | Relações Humanas | Economia | Pensamento Crítico  
-Filosofia | Aprendizado Contínuo | Desenvolvimento Pessoal | Tecnologia  
+`Economia` `Comunicação e Relações Humanas` `Filosofia` `Pensamento Crítico` `Desenvolvimento Pessoal`
 
 ---
 
 ## Objetivo
 
-Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecnologia para resolver problemas reais, sempre aliado ao entendimento humano.
+Crescer como desenvolvedor, adquirindo experiência prática e utilizando a tecnologia para resolver problemas reais — sempre aliado ao entendimento humano.
 
 ---
 
-## Contato
+<p align="center">
+  <em>"É preciso ter um caos interior para dar à luz uma estrela dançarina."</em><br/>
+  — Friedrich Nietzsche
+</p>
 
-- Email: ghenriquexzs@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gustavo-henrique-de-carvalho-289097395
-- GitHub: https://github.com/seu-usuario
-
----
-
-> "É preciso ter um caos interior para dar à luz uma estrela dançarina."
-> — Friedrich Nietzsche
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>
