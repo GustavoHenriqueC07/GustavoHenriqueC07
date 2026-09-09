@@ -58,16 +58,34 @@ Just starting out in these two fields, backed by the certifications listed below
 
 ## Certifications
 
-### DIO.me
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### <img src="https://img.shields.io/badge/-DIO.me-8B5CF6?style=flat-square"/>
+
 - Artificial Intelligence
 - Cybersecurity
 - Information Security
 - Cyber Defense
 
-### Cisco
+</td>
+<td valign="top" width="33%">
+
+### <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
 - Network Architecture
 
-### SENAI
+### <img src="https://img.shields.io/badge/-Academic-DAA520?style=flat-square"/>
+
+- Kangaroo of Mathematics — Bronze Medal
+- SENAI Grand Prix — Participation
+
+</td>
+<td valign="top" width="33%">
+
+### <img src="https://img.shields.io/badge/-SENAI-003DA5?style=flat-square"/>
+
 - Excel
 - Workplace Safety
 - AI Ethics
@@ -75,11 +93,9 @@ Just starting out in these two fields, backed by the certifications listed below
 - Circular Economy
 - AI Fluency
 
-### Academic
-- Kangaroo of Mathematics — Bronze Medal
-
-### Participation
-- SENAI Grand Prix — Certificate of Participation
+</td>
+</tr>
+</table>
 
 ---
 
