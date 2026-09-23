@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo%20Henrique&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Systems%20Development%20Student&descAlignY=55&descSize=16"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Gustavo%20Henrique&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Systems%20Development%20Student&descAlignY=55&descSize=16"/>](https://capsule-render.vercel.app/api?type=waving&height=350&color=timeGradient&section=header&reversal=false&text=Gustavo+Henrique+&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=45&rotate=0&strokeWidth=0&descSize=23&descAlign=34&descAlignY=76)
 
 <p align="center">
   <em>Technology, human behavior, and economics — three lenses for understanding and building better things.</em>
@@ -116,4 +116,4 @@ Grow as a developer, gaining hands-on experience and using technology to solve r
   — Friedrich Nietzsche
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer&animation=twinkling"/>](https://capsule-render.vercel.app/api?type=waving&height=350&color=timeGradient&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=45&rotate=0&strokeWidth=0&descSize=23&descAlign=34&descAlignY=76)
